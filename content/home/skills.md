@@ -21,17 +21,18 @@ feature:
   icon_pack: fas
   name: Major & Trace Element Geochemistry
 - description:
+  icon: camera-retro
+  icon_pack: fas
+  name: XRD
+- description:
   icon: microscope
   icon_pack: fas
   name: SEM & Micrscope Observation
 - description:
-  icon: chart-line
+  icon: running
   icon_pack: fas
-  name: Statistics
-- description:
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name:Fiel Geology
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
