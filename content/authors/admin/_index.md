@@ -25,19 +25,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Geochemistry
+      institution: Nanjing University
+      year: ""
+    - course: B.S. in Resources Exploration and Engineering
+      institution: Chongqing University of Science and Technology
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
