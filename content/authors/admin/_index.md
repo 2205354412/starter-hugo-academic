@@ -1,6 +1,7 @@
 ---
 title: Wang Yu（王）
 role: Master Candidate of Geochemistry
+avatar_filename: avatar.jpg
 bio: My research interests includeorganic geochemistry, carbonate stratigraphy
   and palaeo-environment reconstructio.
 interests:
