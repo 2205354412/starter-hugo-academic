@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: vial
+  icon: r-project
   icon_pack: fab
   name: Major & Trace Element Geochemistry
 - description:
