@@ -21,6 +21,10 @@ feature:
   icon_pack: fas
   name: Major & Trace Element Geochemistry
 - description:
+  icon: microscope
+  icon_pack: fas
+  name: SEM & Micrscope Observation
+- description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
