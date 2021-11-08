@@ -8,7 +8,7 @@ all_day: false
 event: Field trip course designed for geoscience students. We were led by
   Pro.Wang of CQUST and learned basic geological skill, such as how to tell
   different geological phenomenons, from him.
-event_url: no link
+event_url: www.baidu.com
 publishDate: 2021-11-08T15:38:47.976Z
 draft: false
 featured: false
