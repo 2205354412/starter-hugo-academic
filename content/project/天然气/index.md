@@ -2,12 +2,14 @@
 title: Deciphering the origin of a clay bed in S.C
 subtitle: ""
 date: 2021-11-07T01:57:33.850Z
+summary: ""
 draft: false
 featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Fig1. Sample Location（shangsi section）
 ---
 Master degree research project, supervised by Prof Jian Cao.
 
