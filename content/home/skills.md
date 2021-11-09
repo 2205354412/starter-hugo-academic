@@ -28,11 +28,6 @@ feature:
   icon: microscope
   icon_pack: fas
   name: SEM & Micrscope Observation
-- description:
-  icon: running
-  icon_pack: fas
-  name:Fiel Geology
-
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
