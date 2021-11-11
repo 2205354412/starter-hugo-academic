@@ -47,10 +47,7 @@ Major and Trace element analysis ; Bulk rock carbon isotope analysis; TOC; Thin 
 
 **References：**
 
-\[1]Q Wu, J Ramezani, H Zhang,et al. High-precision U-Pb zircon age constraints on the Guadalupian in West Texas, USA\[J]. Palaeogeography Palaeoclimatology Palaeoecology, 2020:109668.
-
-\[2]AB Jost, R Mundil, B He,et al. Constraining the cause of the end-Guadalupian extinction with coupled records of carbon and calcium isotopes\[J].  2014.
-
-\[3]Saitoh M ,  Isozaki Y ,  Ueno Y , et al. Middle-Upper Permian carbon isotope stratigraphy at Chaotian, South China: Pre-extinction multiple upwelling of oxygen-depleted water onto continental shelf\[J]. Journal of Asian Earth Sciences, 2013, s 67–68(may):51-62.
-
-\[4]Wei H Y ,  Chen D Z ,  Hao Y U , et al. End-Guadalupian mass extinction and negative carbon isotope excursion at Xiaojiaba, Guangyuan, Sichuan\[J]. Science China Earth Science, 2012(09):1480-1488.
+\[1]Wu, Q., Ramezani, J., Zhang, H., et al. High-precision U-Pb zircon age constraints on the Guadalupian in West Texas, USA\[J]. Palaeogeography Palaeoclimatology Palaeoecology, 2020,548(12). https://doi.org/10.1016/j.palaeo.2020.109668
+\[2]Jost, A.B., Mundil, R., He, B., et al. Constraining the cause of the end-Guadalupian extinction with coupled records of carbon and calcium isotopes. Earth Planetary Science Letters, 2014,396(12):201–212.
+\[3]Saitoh, M., Isozaki, Y., Ueno, Y., et al. Middle-Upper Permian carbon isotope stratigraphy at Chaotian, South China: Pre-extinction multiple upwelling of oxygen-depleted water onto continental shelf\[J]. Journal of Asian Earth Sciences, 2013a, 67-68(6): 51-62.
+\[4]Wei, H., Chen, D., Yu, H., et al. End-Guadalupian mass extinction and negative carbon isotope excursion at Xiaojiaba, Guangyuan, Sichuan\[J]. Science China Earth Science, 2012, 55(09): 1480-1488.
