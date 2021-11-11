@@ -1,6 +1,6 @@
 ---
-title: Natural Gas Source Analysis of Permian Volcanic Rock Reservoir of Sichuan
-  Basin ( 2019-2020)
+title: 1.Natural Gas Source Analysis of Permian Volcanic Rock Reservoir of
+  Sichuan Basin ( 2019-2020)
 subtitle: Master degree research project, supervised by Prof Jian Cao.
 date: 2021-11-07T01:19:39.191Z
 draft: false
