@@ -1,6 +1,7 @@
 ---
-title: Deciphering the origin of a clay bed in S.C
-subtitle: ""
+title: 2. Deciphering the origin of a clay bed(Wangpo bed)(Degree of Completion:70%)
+subtitle: Methods:Bulk rock XRD analysis; Major and Trace Element Analysis;
+  Scanning Electronic Microscope andOptical Microscope Analysis; U-Pb dating
 date: 2021-11-07T01:57:33.850Z
 summary: ""
 draft: false
@@ -13,4 +14,12 @@ image:
 ---
 Master degree research project, supervised by Prof Jian Cao.
 
-The cause of the end-Guadalupian Mass Extinction(EGME) event has been under dispute for a long time. Previous age constraints pointed the Emeishan Large Ingenious Province(ELIP) as the trigger, but vigorous evidence still did not exist. Wangpo bed, a clay bed formed at the end of Guadalupian, has long been believed as the key a study the causal relationship between ELIP and EGME, as it lies above the extinction level and beneath the volcanic pile of ELIP. In this project, multiple methods are used to provide the origin, mechanism and possible we
+**Back Ground and Aim:**
+
+The significance of Wangpo bed, a clay bed overlying the Permian Maokou Formation, in proving the causal relationship between Emeishan volcanic activity(Emeishan Large Igneous Province) and End-Guadalupian Mass Extinction event has long been addressed since it formed contemporaneously with the two events, but the origin  and the mechanism that forms this bed has long been under controversy. In this study, samples from a well preserved section( Shangsi section) has been collected to provide new insights of the origin and possible mechanism of this bed.
+
+**Present Progress:**
+
+(1)
+
+(2)
