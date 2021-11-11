@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: Palaeo-Environment Evolution During End-Guadalupian in South China
+title: 3.Palaeo-Environment Evolution During End-Guadalupian in South China
   (Degree of completion:20%)
 summary: An example of using the in-built project page.
 url_video: ""
