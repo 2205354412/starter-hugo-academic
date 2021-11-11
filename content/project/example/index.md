@@ -24,8 +24,6 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-![Fig1. Comparison of avaliable δ13C records,note the largest excursion in Chaotian Section.(Jost et al., 2014,EPSL)](jost1.jpg)
-
 **Back Ground and Aim:** 
 
 A large carbon isotope excursion(over 8 ‰) has been documented at the end of Capitanian in South China and its cause has been elusive\[2]. Different explanations has been aroused but robust evidence is still not available. These explanations include:1) The light carbon bringing by upwelling currents from deep ocean\[3]; 2)The light carbon from re-oxidated organic matter in the strata\[2]; 3) Light carbon from volcanic activity(The Emeishan Large Igneous Province)\[4]. In this study, we use element content to decode the palaeoenvironment information(upwelling character, redox condition, primary productivity) of  a well preserved section(the Shangsi section) in South China and try to provide some information behind the excursion.
