@@ -24,7 +24,7 @@ image:
   filename: featured.jpg
 url_code: ""
 ---
-![Fig.1](jost1.jpg)
+![Fig.1 δ13C records compilation from different sections in the world,note the largest excursion in Chaotian section.(Jost et al., 2014,EPSL)](jost1.jpg "Fig.1 δ13C records compilation from different sections in the world,note the largest excursion in Chaotian section.(Jost et al., 2014,EPSL)")
 
 **Back Ground and Aim:** 
 
