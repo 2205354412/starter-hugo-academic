@@ -22,6 +22,9 @@ image:
     Palaeogeography,Palaeoclimatology,Palaeoecology)
   focal_point: Smart
   filename: featured.jpg
+  alt_text: Summary of the end-Guadalupian extinction and the accompanying major
+    geological events,note the negative δ13C excursion(Wu et al.,2020,
+    Palaeogeography,Palaeoclimatology,Palaeoecology)
 url_code: ""
 ---
 ![Fig.1 δ13C records compilation from different sections in the world,note the largest excursion in Chaotian section.(Jost et al., 2014,EPSL)](jost1.jpg "Fig.1 δ13C records compilation from different sections in the world,note the largest excursion in Chaotian section.(Jost et al., 2014,EPSL)")
