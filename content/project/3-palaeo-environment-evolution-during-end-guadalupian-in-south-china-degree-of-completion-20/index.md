@@ -30,7 +30,7 @@ Major and Trace element analysis ; Bulk rock carbon isotope analysis; TOC; Thin 
 
 **Present Progress:**
 
-（1）Three pulse of primary productivity increase have been observed but have weak to zero relationship with upwelling. Other source of nutrients for primary producer in euphotic zone is favored.
+（1）Three pulse of primary productivity increase have been observed but have weak to zero relationship with upwelling. There may be other source of nutrients for primary producer in euphotic zone.
 
 （2）Supplementary evidence from the overlying clay bed( Wangpo bed) indicates volcanic origin of light carbon due to the degassing of volcanic rock.
 
