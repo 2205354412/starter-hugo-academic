@@ -34,8 +34,6 @@ Major and Trace element analysis ; Bulk rock carbon isotope analysis; TOC; Thin 
 
 （2）Supplementary evidence from the overlying clay bed( Wangpo bed) indicates volcanic origin of light carbon due to the degassing of volcanic rock.
 
-（3）Other experiments including mercury content have been conducted but the data is waiting for analysis.
-
 **References：**
 
 Jost, A.B., Mundil, R., He, B., et al. Constraining the cause of the end-Guadalupian extinction with coupled records of carbon and calcium isotopes. Earth Planetary Science Letters, 2014,396(12):201–212.
