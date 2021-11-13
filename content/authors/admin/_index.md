@@ -27,4 +27,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Wangyu is a postgraduate student of geochemistry at Nanjing University. His research interests include palaeo-environment reconstruction, carbonate isotope stratigraphy, organic geochemistry. He is currently working on deciphering the origin of a clay bed,which may have the potential to prove the casual relationship between Emeishan olcanic activity(Emeishan Large Igneous Province) and the end-Guadalupian Mass Extinction Event in South China.
+Wangyu is a postgraduate student of geochemistry at Nanjing University. His research interests include palaeo-environment reconstruction, carbonate isotope stratigraphy, organic geochemistry. He is currently working on deciphering the origin of a clay bed,which may have the potential to prove the casual relationship between the Emeishan volcanic activity(Emeishan Large Igneous Province) and the end-Guadalupian Mass Extinction Event at the end of Guadalupian in South China.
