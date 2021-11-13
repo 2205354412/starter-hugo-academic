@@ -16,7 +16,7 @@ image:
 ---
 **Back Ground and Aim:** 
 
-A large carbon isotope excursion(over 8 ‰) has been documented at the end of Capitanian in South China(Saitoh et al., 2013) and its cause has been elusive. Different explanations has been aroused but robust evidence is still not available. These explanations include:1) The light carbon bringing by upwelling currents from deep ocean(Saitoh et al.,2013); 2)The light carbon from re-oxidated organic matter in the strata(Jost et al., 2014); 3) Light carbon from volcanic activity(The Emeishan Large Igneous Province)(Wei et al.,2012). 
+A large carbon isotope excursion(over 8 ‰) has been documented at the end of Capitanian in South China(Saitoh et al., 2013) and its cause has been elusive. Different explanations has been aroused but robust evidence is still not available. These explanations include:1) The light carbon brought by upwelling currents from deep ocean(Saitoh et al.,2013); 2)The light carbon from re-oxidated organic matter in the strata(Jost et al., 2014); 3) Light carbon from volcanic activity(The Emeishan Large Igneous Province)(Wei et al.,2012). 
 
 ![](jost1.jpg "Fig.1 δ13C records compilation from different sections in the world,note the largest excursion in Chaotian section.(Jost et al., 2014,EPSL)")
 
